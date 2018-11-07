@@ -3,7 +3,7 @@
 
 Jupyter Notebook 로 작성했습니다.
 
-[Jupyter contrib nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)과 [Jupyter nbextensions configurator](https://github.com/Jupyter-contrib/jupyter_nbextensions_configurator)을 설치한 후에 확인하시길 **추천**합니다.
+[Jupyter contrib nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)과 [Jupyter nbextensions configurator](https://github.com/Jupyter-contrib/jupyter_nbextensions_configurator)을 설치한 후에 열람하시길 **추천**합니다.
 
 # Part 별 내용 소개
 - Part 1: Jupyter notebook, 변수 등
