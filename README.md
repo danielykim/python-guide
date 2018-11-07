@@ -1,9 +1,12 @@
 # 실용주의 파이썬 안내서
 파이썬(Python) 강의 자료입니다.
 
-Jupyter Notebook 로 작성했습니다.
+자료는 Jupyter Notebook 형태로 작성했습니다.
 
-[Jupyter contrib nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)과 [Jupyter nbextensions configurator](https://github.com/Jupyter-contrib/jupyter_nbextensions_configurator)을 설치한 후에 열람하시길 **추천**합니다.
+열람 전에 아래 2가지 라이브러리를 설치하시길 추천합니다.
+- [Jupyter contrib nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
+- [Jupyter nbextensions configurator](https://github.com/Jupyter-contrib/jupyter_nbextensions_configurator)
+
 
 # 내용 소개
 - Part 1: Jupyter notebook, 변수 등
