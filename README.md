@@ -13,3 +13,9 @@
 - Part 2: Data Structure
 - Part 3: 들여쓰기, 조건문, 반복문, 함수, File I/O 등
 - Part 4: Standard Library 몇 가지 소개, 기타 등등
+
+
+# 별첨
+- `PEP20_by_examples_Korean.pdf`: PEP20 by examples 한글
+  - [출처](https://artifex.org/~hblanks/talks/2011/pep20_by_example.pdf)
+  - [옮긴이](https://www.linkedin.com/in/danielyounghokim/)
