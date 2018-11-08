@@ -16,6 +16,6 @@
 
 
 # 별첨
-- `PEP20_by_examples_Korean.pdf`: PEP20 by examples 한글
+- `예제로_살펴보는_PEP20.pdf`
   - [출처](https://artifex.org/~hblanks/talks/2011/pep20_by_example.pdf)
   - [옮긴이](https://www.linkedin.com/in/danielyounghokim/)
