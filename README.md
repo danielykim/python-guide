@@ -16,6 +16,6 @@
 
 
 # 별첨
-- `예제로_살펴보는_PEP20.pdf`
+- [예제로_살펴보는_PEP20.pdf](https://github.com/danielykim/python-guide/raw/master/%EC%98%88%EC%A0%9C%EB%A1%9C_%EC%82%B4%ED%8E%B4%EB%B3%B4%EB%8A%94_PEP20.pdf)
   - [출처](https://artifex.org/~hblanks/talks/2011/pep20_by_example.pdf)
   - [옮긴이](https://www.linkedin.com/in/danielyounghokim/)
